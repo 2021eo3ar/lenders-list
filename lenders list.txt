@@ -1,0 +1,68 @@
+[
+    {
+        "uid": "1",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "lendingAmount": 5000
+    },
+    {
+        "uid": "2",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "lendingAmount": 3000
+    },
+    {
+        "uid": "3",
+        "name": "Emily Johnson",
+        "email": "emily.johnson@example.com",
+        "lendingAmount": 7000
+    },
+    {
+        "uid": "4",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "lendingAmount": 4500
+    },
+    {
+        "uid": "5",
+        "name": "Sarah Davis",
+        "email": "sarah.davis@example.com",
+        "lendingAmount": 6000
+    },
+    {
+        "uid": "6",
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "lendingAmount": 2500
+    },
+    {
+        "uid": "7",
+        "name": "Laura Martinez",
+        "email": "laura.martinez@example.com",
+        "lendingAmount": 8000
+    },
+    {
+        "uid": "8",
+        "name": "James Anderson",
+        "email": "james.anderson@example.com",
+        "lendingAmount": 5500
+    },
+    {
+        "uid": "9",
+        "name": "Jessica Lee",
+        "email": "jessica.lee@example.com",
+        "lendingAmount": 4000
+    },
+    {
+        "uid": "10",
+        "name": "Daniel Harris",
+        "email": "daniel.harris@example.com",
+        "lendingAmount": 7500
+    },
+   {
+"name":"dummy borrower",
+"email":"borrower@gmail.com",
+"uid":"aQjnqjiBAEd0ZgZSAciaZpIlRGz1"
+} 
+
+]
